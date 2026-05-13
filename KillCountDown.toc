@@ -1,0 +1,6 @@
+## Interface: 58555
+## Title: Kill CountDown
+## Author: Siethex
+## Version: 1.0.1
+## Notes: Previous version did not name enemy units
+KillCountDown.lua
